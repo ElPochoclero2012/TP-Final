@@ -1,0 +1,21 @@
+# Build folders
+bin/
+obj/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# CodeBlocks
+*.depend
+*.layout
+
+# Data files
+data/*.dat
+
+# Logs
+*.log
