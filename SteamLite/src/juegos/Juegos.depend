@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1779493926 source:c:\users\uriel\desktop\utn\programacion i\juegos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
