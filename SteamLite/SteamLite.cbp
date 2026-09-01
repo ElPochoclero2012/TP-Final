@@ -31,9 +31,63 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="src/auth/auth.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="src/auth/auth.h" />
+		<Unit filename="src/biblioteca/biblioteca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/biblioteca/biblioteca.h" />
+		<Unit filename="src/biblioteca/bibliotecaMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/biblioteca/bibliotecaMenu.h" />
+		<Unit filename="src/juegos/juegos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/juegos/juegos.h" />
+		<Unit filename="src/juegos/juegosMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/juegos/juegosMenu.h" />
+		<Unit filename="src/logs/logs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/logs/logs.h" />
+		<Unit filename="src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/persistence/archivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/persistence/archivos.h" />
+		<Unit filename="src/stats/stats.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/stats/stats.h" />
+		<Unit filename="src/ui/ascii.h" />
+		<Unit filename="src/ui/colors.h" />
+		<Unit filename="src/ui/ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/ui/ui.h" />
+		<Unit filename="src/usuarios/usuarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/usuarios/usuarios.h" />
+		<Unit filename="src/usuarios/usuariosMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/usuarios/usuariosMenu.h" />
+		<Unit filename="src/utils/utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/utils/utils.h" />
+		<Unit filename="src/utils/validations.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/utils/validations.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
